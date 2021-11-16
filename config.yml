@@ -6,26 +6,28 @@
 # --- Required options --- #
 
 # Name of website
-title: Jamie L Wright 
+title: My Website
 
 # Your name to show in the footer
-author: Jamie L Wright 
+author: Some Person
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme_jw.md"
-  Portfolio: 
-  Publications:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/Users/jamiewright/Dropbox/profile pictures/jamie_linkedin.jpg"
+avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-#round-avatar: true
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -37,11 +39,13 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jwrigh12@uoregon.edu"
+  email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: jamiew12
-  twitter: JamieLWright1
-#  linkedin: 
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -62,20 +66,20 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Welcome! My name is Jamie L Wright and I am a PhD candidate in my final year at the University of Oregon. I am in the Environmental Sciences, Studies, and Policy program with a focal department in Biology. I am also within the Institute of Ecology and Evolution. I would broadly describe myself as an ecosystem ecologist that utilizes soil biogeomchemistry to elucidate questions regarding how long-term climatic change and modern disturbance influence ecosytem function - specifically through the lens of carbon sequestration and stability. 
+rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  linkedin: true
   facebook: true
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"
+url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -250,8 +254,3 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
