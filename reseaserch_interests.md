@@ -16,23 +16,27 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
-\#Ecosytem Ecology &gt;I would broadly describe myself as an ecosystem
-ecologist because I am interested in studying the intersection of
-long-term climatic change and modern disturbances and how these
-consequently influence ecosystem function, specifically looking through
-the lens of soil carbon. I attempt to elucidate my research queries
-through predominantly utilizing principles of soil biogeochemistry.
+# Ecosytem Ecology
 
-\#\#Soil Biogeochemistry &gt;When referring to soil biogeochemistry, I
-measure the following; - Carbon (total, mineral associated, pyrogenic) -
-Nitrogen - pH - Texture - Microbial composition (ASV data) - elemental
-composition (Fluorine - Uranium)
+> I would broadly describe myself as an ecosystem ecologist because I am
+> interested in studying the intersection of long-term climatic change
+> and modern disturbances and how these consequently influence ecosystem
+> function, specifically looking through the lens of soil carbon. I
+> attempt to elucidate my research queries through predominantly
+> utilizing principles of soil biogeochemistry.
+
+## Soil Biogeochemistry
+
+> When referring to soil biogeochemistry, I measure the following; \*
+> Carbon (total, mineral associated, pyrogenic) \* Nitrogen \* pH \*
+> Texture \* Microbial composition (ASV data) \* elemental composition
+> (Fluorine - Uranium)
 
 > To quantify these measurements, I use some of the following
-> instruments; - Costech Elemental Combustion System 4010 - Handheld XRF
-> Spectrometer
+> instruments; \* Costech Elemental Combustion System 4010 \* Handheld
+> XRF Spectrometer
 
-\#\#Science Communication
+## Science Communication
 
 > When I was five years old, my mother made the milestone of becoming
 > the first college graduate in my family. However, once it was my turn
