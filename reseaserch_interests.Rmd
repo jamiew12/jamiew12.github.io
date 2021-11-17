@@ -21,9 +21,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Ecosytem Ecology
+
 >I would broadly describe myself as an ecosystem ecologist because I am interested in studying the intersection of long-term climatic change and modern disturbances and how these consequently influence ecosystem function, specifically looking through the lens of soil carbon. I attempt to elucidate my research queries through predominantly utilizing principles of soil biogeochemistry. 
 
 ## Soil Biogeochemistry 
+
 > When referring to soil biogeochemistry, I measure the following; 
 
 * Carbon (total, mineral associated, pyrogenic)
