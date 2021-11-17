@@ -27,14 +27,20 @@ always_allow_html: true
 
 ## Soil Biogeochemistry
 
-> When referring to soil biogeochemistry, I measure the following; \*
-> Carbon (total, mineral associated, pyrogenic) \* Nitrogen \* pH \*
-> Texture \* Microbial composition (ASV data) \* elemental composition
-> (Fluorine - Uranium)
+> When referring to soil biogeochemistry, I measure the following;
+
+-   Carbon (total, mineral associated, pyrogenic)
+-   Nitrogen
+-   pH
+-   Texture
+-   Microbial composition (ASV data)
+-   elemental composition (Fluorine - Uranium)
 
 > To quantify these measurements, I use some of the following
-> instruments; \* Costech Elemental Combustion System 4010 \* Handheld
-> XRF Spectrometer
+> instruments;
+
+-   Costech Elemental Combustion System 4010
+-   Handheld XRF Spectrometer
 
 ## Science Communication
 
