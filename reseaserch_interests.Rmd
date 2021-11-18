@@ -1,7 +1,6 @@
 ---
 title: "Research Interests"
 author: "Jamie Wright"
-date: "11/16/2021"
 output:
   md_document:
     variant: gfm

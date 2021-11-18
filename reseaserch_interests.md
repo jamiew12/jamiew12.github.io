@@ -1,7 +1,6 @@
 ---
 title: "Research Interests"
 author: "Jamie Wright"
-date: "11/16/2021"
 output:
   md_document:
     variant: gfm
@@ -70,4 +69,3 @@ always_allow_html: true
 > achieving this goal is through first learning how to share my research
 > in ways that anyone could understand and I will achieve this through
 > data visualization.
-
