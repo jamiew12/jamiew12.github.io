@@ -16,4 +16,4 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
-<img src="/Users/jamiewright/Documents/GitHub/jamiew12.github.io/Map Figure_9.29.20.png" width="2556" style="display: block; margin: auto;" />
+<img src="/Users/jamiewright/Documents/GitHub/jamiew12.github.io/Map%20Figure_9.29.20.png" style="width:50.0%" />
