@@ -20,7 +20,7 @@ always_allow_html: true
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r out.width = "50%", fig.align = "center"}
+```{r echo=FALSE, out.width = "20%", fig.align = "center"}
 knitr::include_graphics("/Users/jamiewright/Documents/GitHub/jamiew12.github.io/Map Figure_9.29.20.png")
 ```
 

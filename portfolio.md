@@ -16,8 +16,4 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
-``` r
-knitr::include_graphics("/Users/jamiewright/Documents/GitHub/jamiew12.github.io/Map Figure_9.29.20.png")
-```
-
-<img src="/Users/jamiewright/Documents/GitHub/jamiew12.github.io/Map Figure_9.29.20.png" width="50%" style="display: block; margin: auto;" />
+<img src="/Users/jamiewright/Documents/GitHub/jamiew12.github.io/Map Figure_9.29.20.png" width="20%" style="display: block; margin: auto;" />
