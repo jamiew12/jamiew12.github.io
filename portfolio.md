@@ -16,5 +16,5 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
-![an image caption Source: Vegetative and climate change throughout the
+![Vegetative and climate change throughout the
 late-Holocene](/Users/jamiewright/Documents/GitHub/jamiew12.github.io/Map%20Figure_9.29.20.png)
