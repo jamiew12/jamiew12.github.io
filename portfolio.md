@@ -17,4 +17,4 @@ always_allow_html: true
 ---
 
 ![Vegetative and climate change throughout the
-late-Holocene](./Map%20Figure_9.29.20.png)
+late-Holocene](./MapFigure_9.29.20.png)
