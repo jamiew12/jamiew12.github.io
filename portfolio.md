@@ -16,5 +16,5 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
-![trial
-picture](/Users/jamiewright/Documents/GitHub/jamiew12.github.io/jamie.png)
+![Vegetative and climate change throughout the
+late-Holocene](./Map%20Figure_9.29.20.png)
