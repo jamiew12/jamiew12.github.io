@@ -16,4 +16,5 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
-![](/Users/jamiewright/Documents/GitHub/jamiew12.github.io/Map%20Figure_9.29.20.png)
+![trial
+picture](/Users/jamiewright/Documents/GitHub/jamiew12.github.io/jamie.png)
