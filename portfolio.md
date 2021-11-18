@@ -16,5 +16,11 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
-![Vegetative and climate change throughout the
-late-Holocene](/Users/jamiewright/Documents/GitHub/jamiew12.github.io/Map%20Figure_9.29.20.png)
+<div class="figure">
+
+<img src="/Users/jamiewright/Documents/GitHub/jamiew12.github.io/Map Figure_9.29.20.png" alt="Vegetative and climate change throughout the late-Holocene" width="100%" />
+<p class="caption">
+Vegetative and climate change throughout the late-Holocene
+</p>
+
+</div>
