@@ -18,10 +18,11 @@ always_allow_html: true
 
 ## Publication Figures
 
-![](/assets/img/StudyRegion_9.29.20.png) &gt; This figure was from a
-journal article I co-authored (<https://doi.org/10.1111/gcb.15382>),
-where we visualize the study region. The figure caption is the
-following;
+![](/assets/img/StudyRegion_9.29.20.png)
+
+> This figure was from a journal article I co-authored
+> (<https://doi.org/10.1111/gcb.15382>), where we visualize the study
+> region. The figure caption is the following;
 
 > “FIGURE 1 Study sites, current ecosystems, and climate: (a) mean
 > annual precipitation (mm) over the time period 1981–2010. Blue stars

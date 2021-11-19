@@ -23,6 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Publication Figures
 
 ![](/assets/img/StudyRegion_9.29.20.png)
+
 > This figure was from a journal article I co-authored (https://doi.org/10.1111/gcb.15382), where we visualize the study region. The figure caption is the following; 
 
 >"FIGURE 1 Study sites, current ecosystems, and climate: (a) mean annual precipitation (mm) over the time period 1981–2010. Blue stars indicate cave sites where paleoclimate records were derived from speleothems. (b) Mean annual temperature (℃) over the time period 1981–2010. (c) Study region displaying 83 sites sampled for this study within the Amazon–Cerrado region. The yellow line within the study region delineates the ecoregions—Amazon to the Northwest and Cerrado to the Southeast. Shapes and colors correspond to forest, savanna,
