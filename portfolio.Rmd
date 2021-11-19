@@ -20,7 +20,7 @@ always_allow_html: true
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![Vegetative and climate change throughout the late-Holocene](./MapFigure_9.29.20.png)
+![]("/assets/img/jamie.png") 
 
 
 
