@@ -22,7 +22,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](/assets/img/MapFigure_9.29.20.png)
 
-> This image shows...
+> This figure was from a journal article I co-authored (https://doi.org/10.1111/gcb.15382), where soil carbon isotopic data was utilized as a proxy for vegetation change and strontium data was used as a proxy for climate (data from collaborators). The figure caption is the following; 
+
+>"FIGURE 5 Changes in δ13CSOM at (a) varying depths across study sites, where the x-axis is longitude and the y-axis is latitude, and depth
+has been converted to age; (b) vegetation change heatmap where blue represents woody vegetation expansion, yellow represents no
+change, and red represents grass expansion; and (c) strontium isotope ratios, adapted from Ward et al. (2019), as a proxy for soil moisture
+and rock dissolution, indicating a shift towards wetter conditions. Different colors within each location represent different speleothem
+samples collected within the same cave site (Figure 1)"
+
 
 
 
