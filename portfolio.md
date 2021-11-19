@@ -1,6 +1,7 @@
 ---
 title: "Portfolio"
 author: "Jamie Wright"
+date: "11/18/2021"
 output:
   md_document:
     variant: gfm
