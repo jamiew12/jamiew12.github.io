@@ -1,5 +1,3 @@
-Research Interests
-================
 
 # Ecosytem Ecology
 
