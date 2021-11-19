@@ -1,5 +1,5 @@
-Publications
-================
+
+> Publications
 
 Wright, J. L., Bomfim, B.,Wong, C. I., Marimon-Júnior, B. H., Marimon,
 B. S., & Silva, L. C. R. (2020). Sixteen hundred years of increasing

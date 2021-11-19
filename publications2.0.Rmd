@@ -1,11 +1,12 @@
 ---
-title: "Publications"
+title: ""
 output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+>Publications
 
 Wright, J. L., Bomfim, B.,Wong, C. I., Marimon-Júnior, B. H., Marimon, B. S., & Silva, L. C. R. (2020). Sixteen hundred years of increasing tree cover prior to modern deforestation in Southern Amazon and Central Brazilian savannas. Global Change Biology, 1-33. https://doi.org/10.1111/gcb.15382
 
