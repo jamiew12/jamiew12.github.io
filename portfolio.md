@@ -18,3 +18,4 @@ always_allow_html: true
 
 ![](/assets/img/MapFigure_9.29.20.png)
 
+> This image shows…
