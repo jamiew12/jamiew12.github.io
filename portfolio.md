@@ -16,6 +16,23 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
+\#\#\#Publication Figures
+
+![](/assets/img/StudyRegion_9.29.20.png) &gt; This figure was from a
+journal article I co-authored (<https://doi.org/10.1111/gcb.15382>),
+where we visualize the study region. The figure caption is the
+following;
+
+> “FIGURE 1 Study sites, current ecosystems, and climate: (a) mean
+> annual precipitation (mm) over the time period 1981–2010. Blue stars
+> indicate cave sites where paleoclimate records were derived from
+> speleothems. (b) Mean annual temperature (℃) over the time period
+> 1981–2010. (c) Study region displaying 83 sites sampled for this study
+> within the Amazon–Cerrado region. The yellow line within the study
+> region delineates the ecoregions—Amazon to the Northwest and Cerrado
+> to the Southeast. Shapes and colors correspond to forest, savanna, or
+> forest–savanna transitions. Climate map adapted from INMET (2019)”
+
 ![](/assets/img/rawdata_9.29.20.png)
 
 > This figure was from a journal article I co-authored
@@ -31,7 +48,7 @@ always_allow_html: true
 > soil profile. Red-dashed lines indicate the depth of 80 cm selected
 > for vegetation reconstructions across all sites. Black points
 > represent averages per depth. The majority of regressions indicate
-> increasing woody cover over time.”
+> increasing woody cover over time”
 
 ![](/assets/img/MapFigure_9.29.20.png)
 
@@ -50,3 +67,23 @@ always_allow_html: true
 > dissolution, indicating a shift towards wetter conditions. Different
 > colors within each location represent different speleothem samples
 > collected within the same cave site (Figure 1)”
+
+![](/assets/img/finaltotalcarbon_9.29.20.png)
+
+> This figure was from a journal article I co-authored
+> (<https://doi.org/10.1111/gcb.15382>), which displays soil carbon
+> trends across different ecosystem types. The figure caption is the
+> following;
+
+> “FIGURE6 Variation in soil organic carbon stocks for each ecosystem
+> and soil depth (a). Small differences were found for average carbon
+> stocks across ecosystems, although notable outliers exist within
+> forests and forest–savanna transitions (b). A mixed-effects model
+> indicates that soil order and woody vegetation expansion significantly
+> affected soil carbon content only in savannas, where woody vegetation
+> expansion had a positive effect on carbon stocks, with a significant
+> random effect of sampling location for all ecosystem types (c)”
+
+\#\#\#Conference Infographics
+
+\#\#\#Having fun with data
