@@ -16,6 +16,23 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
+![](/assets/img/raw%20data_9.29.20.png)
+
+> This figure was from a journal article I co-authored
+> (<https://doi.org/10.1111/gcb.15382>), where we display how raw soil
+> carbon isotopic data changes with depth. The figure caption is the
+> following;
+
+> “FIGURE 4 Soil organic matter carbon isotope ratios (δ13CSOM) across
+> depths for (a) forest, (b) savanna, and (c) forest–savanna
+> transitions. Figures to the right show the proportion of data points
+> for each soil depth. Grey lines represent significant linear
+> regressions (p &lt; .05) between soil depth and δ13CSOM within each
+> soil profile. Red-dashed lines indicate the depth of 80 cm selected
+> for vegetation reconstructions across all sites. Black points
+> represent averages per depth. The majority of regressions indicate
+> increasing woody cover over time.”
+
 ![](/assets/img/MapFigure_9.29.20.png)
 
 > This figure was from a journal article I co-authored
