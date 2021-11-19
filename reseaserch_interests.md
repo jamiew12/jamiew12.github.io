@@ -1,7 +1,7 @@
 ---
 title: "Research Interests"
 author: "Jamie Wright"
-date: "11/17/2021"  
+hidedate: true
 output:
   md_document:
     variant: gfm
@@ -34,7 +34,7 @@ always_allow_html: true
 -   pH
 -   Texture
 -   Microbial composition (ASV data)
--   elemental composition (Fluorine - Uranium)
+-   Elemental composition (Fluorine - Uranium)
 
 > To quantify these measurements, I use some of the following
 > instruments;
