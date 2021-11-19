@@ -16,4 +16,5 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
-![](%22/assets/img/jamie.png%22)
+![](/assets/img/MapFigure_9.29.20.png)
+
