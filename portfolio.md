@@ -16,7 +16,7 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
-\#\#\#Publication Figures
+## Publication Figures
 
 ![](/assets/img/StudyRegion_9.29.20.png) &gt; This figure was from a
 journal article I co-authored (<https://doi.org/10.1111/gcb.15382>),
@@ -84,6 +84,6 @@ following;
 > expansion had a positive effect on carbon stocks, with a significant
 > random effect of sampling location for all ecosystem types (c)”
 
-\#\#\#Conference Infographics
+## Conference Infographics
 
-\#\#\#Having fun with data
+## Having fun with data

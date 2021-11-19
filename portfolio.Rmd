@@ -20,7 +20,7 @@ always_allow_html: true
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-###Publication Figures
+## Publication Figures
 
 ![](/assets/img/StudyRegion_9.29.20.png)
 > This figure was from a journal article I co-authored (https://doi.org/10.1111/gcb.15382), where we visualize the study region. The figure caption is the following; 
@@ -54,9 +54,9 @@ samples collected within the same cave site (Figure 1)"
 >"FIGURE6 Variation in soil organic carbon stocks for each ecosystem and soil depth (a). Small differences were found for average carbon stocks across ecosystems, although notable outliers exist within forests and forest–savanna transitions (b). A mixed-effects model indicates that soil order and woody vegetation expansion significantly affected soil carbon content only in savannas, where woody vegetation expansion had a positive effect on carbon stocks, with a significant random effect of sampling location for all ecosystem types (c)"
 
 
-###Conference Infographics
+## Conference Infographics
 
-###Having fun with data
+## Having fun with data
 
 
 
