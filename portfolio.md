@@ -16,7 +16,7 @@ tags: [jekyll, r-markdown]
 always_allow_html: true
 ---
 
-![](/assets/img/raw%20data_9.29.20.png)
+![](/assets/img/rawdata_9.29.20.png)
 
 > This figure was from a journal article I co-authored
 > (<https://doi.org/10.1111/gcb.15382>), where we display how raw soil
