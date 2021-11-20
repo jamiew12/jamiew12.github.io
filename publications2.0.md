@@ -17,3 +17,16 @@ Atmospheric Recovery White Paper: A Perspective on Convergence to
 Accelerate Carbon Sequestration. University of Oregon,Eugene, Oregon.
 \[Silva LCR, Wood M, Johnson B, Bomfim B, Coughlan M, Smith M, Brinton
 H, Bridgham S, and McGuire K (eds.)\] 2019.
+
+> Conferences
+
+Woody densification and expansion detected in Brazil using carbon stable
+isotopes in soil (44th New Phytologist Symposium; 2019)
+
+Forest Expansion Detected in Brazil Using Carbon Stable Isotopes in Soil
+(Ecological Society of America; 2018)
+
+> Undergraduate Research
+
+Immediate effects of controlled fire on forest soil carbon pools in
+Brazilian Amazonia Fall (Capstone Research;2016)
