@@ -73,3 +73,10 @@
 ## Conference Infographics
 
 ## Having fun with data
+
+![](/assets/img/Wright_Fun.png) &gt; This figure was generated as part
+of an assignment for an advanced cartography course I took. Instead of
+working with my own data, I wanted to generate a map that would be fun
+and release some stress. I was inspired to make this after viewing some
+of Joshua Stevens maps. Data was mined from the internet and inferred
+from books I read.
