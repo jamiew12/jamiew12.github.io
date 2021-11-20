@@ -29,4 +29,4 @@ Forest Expansion Detected in Brazil Using Carbon Stable Isotopes in Soil
 > Undergraduate Research
 
 Immediate effects of controlled fire on forest soil carbon pools in
-Brazilian Amazonia Fall (Capstone Research;2016)
+Brazilian Amazonia (Capstone Research;2016)
